@@ -1,6 +1,6 @@
 # 全目录
 
-[更多系统、论文，供君选择 ~~>](https://www.bitwise.net.cn)
+[更多系统、论文，供君选择 ~~>](https://www.yuque.com/wisebit/blog)
 # [iCheck plugin](http://damirfoy.com/iCheck/) ![v0.9.1](http://damirfoy.com/iCheck/0.9.1.png)
 ## Highly customizable checkboxes and radio buttons for jQuery and Zepto.
 
